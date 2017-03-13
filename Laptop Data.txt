@@ -1,0 +1,104 @@
+DELL3521
+i3
+3 gb
+500 gb
+Win. 8
+31000
+nonTouch
+1 gb
+DELLV34
+i5
+4 gb
+750 gb
+Win. 7
+41000
+NonTouch
+Null
+Dell1501
+i5
+4 gb
+500 gb
+Win. 8.1
+47000
+Touch
+1 gb
+Dell3542
+i7
+6 gb
+1 tb
+Win. 8.1
+60000
+Touch
+2 gb
+LENOVOB4
+i3
+2 gb
+200 gb
+Win. 7
+25000
+NonTouch
+null
+Lenovo50
+i3
+5 gb
+800 gb
+Win. 8
+38000
+Touch
+1 gb
+Lenovo59
+i7
+5 gb
+500 gb
+Win. 8
+41000
+Touch
+2 gb
+HP 1000
+i3
+3 gb
+750 gb
+31000
+Win. 8
+NonTouch
+null
+HP 153
+i3
+3.5 gb
+750 gb
+Win. 8.1
+35000
+NonTouch
+null
+HP 151
+i5
+4 gb
+500 gb
+Win. 8.1
+45000
+nonTouch
+1 gb
+ASUSX553
+I3
+4 gb
+500 gb
+Win. 7
+36000
+NonTouch
+null
+ASUSX552
+i7
+8 gb
+1 tb
+Win.8
+65000
+Touch
+2 gb
+ASUSX551
+i3
+3 gb
+750 gb
+Win. 7
+28000
+NonTouch
+Null

@@ -1,0 +1,165 @@
+ELITEE6
+4.4.1
+20000
+5 inch
+single
+2 gb
+32 gb
+13 mp
+null
+2500 mah
+dual core
+ELITEE3
+4.2
+13000
+4.5 inch
+dual
+1 gb
+16 gb
+8 mp
+4 gb
+1500 mah
+a7 cortex
+ELITES5
+4.4
+35000
+5.4 inch
+dual sim 
+3 gb
+32 gb
+15 mp
+null
+2600 mah
+quadcore
+GALAXYS3
+4.4.1
+25000
+4.5
+single
+1.5 GB
+8 gb
+8 mp
+8 gb
+2200 mah
+quadcore
+GALAXYS4
+4.4
+25000
+5 inch
+single
+2 gb
+16 gb
+13 mp
+32 gb
+2100 mah
+quadcore
+GALAXYS5
+4.4.1
+45000
+5.6 inch
+dual
+4 gb
+64 gb
+15 mp
+16 gb
+3000 mah
+octacore
+GRAND
+4.2
+16000
+4.9 inch
+dual
+1 gb
+4 gb
+8 mp
+32 gb
+2100 mah
+A8 CORTEX
+NOTE2
+4.4.1
+40000
+5.7 inch
+single
+2 gb
+16 gb
+13 mp
+32 gb
+3100 mah
+dual core
+ONESV
+4.2.2
+18000
+4 inches
+single sim
+1 gb
+8 gb
+5 mp
+16 gb
+2200 mah
+A8 cortex
+ONE
+4.1
+8000
+4 inches
+single
+500 mb
+4 gb
+4 mp
+8 gb
+1800 mah
+1.2 ghz
+ONEMINI
+4.4.1
+38000
+5 inches
+dual
+2 gb
+16 gb
+12 mp
+8 gb
+2500 mah
+dualcore
+XPERIAZ
+4.3
+19000
+5.2 inches
+dual
+1 gb
+8 gb
+6 mp
+16 gb
+2100 mah
+dual core
+XPERIAZ1
+4.1.2
+13000
+4.3 inch
+dual
+1 gb
+8 gb
+5 mp
+32 gb
+2300 mah
+A8 cortex
+XPERIAT2
+4.3
+22000
+5.3
+dual
+1.5 gb
+32 gb
+13  mp
+null
+2400 mah
+octacore
+XPERIAM2
+4.4.1
+17000
+5.8 inch
+single
+3 gb
+8 gb
+8 mp
+16 gb
+1800 mah
+quadcore
